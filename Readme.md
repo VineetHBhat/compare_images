@@ -20,6 +20,7 @@ The basic structure of the format is as shown below. **compare_images.py** expec
 4. `y1:y2`
    1. Starting and ending points in horizontal direction.
    2. `y1` starts from the left side of the screen.
+5. Multiple masks can be applied at the same time. Different masks should be separated by a `|`.
 
 ## Definitions
 1. Positive mask
